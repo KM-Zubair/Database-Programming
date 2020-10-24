@@ -23,5 +23,5 @@ values (col1_value, col2_value, etc.);
 
 3.	List all the patients’ details, alphabetically by name. 
 
-IF YOU WANT SOME CHALLENGE
+
 4.	List all the patients admitted today. (Join between Patient and Admission table)
